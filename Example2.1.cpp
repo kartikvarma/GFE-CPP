@@ -2,9 +2,10 @@
 // Description: Illustrate the use of cin to get input.
 //When an input error is made, the stream "breaks," cin returns false, and the program stops. It's very important to guard against such errors as we did in the program above. But what if we want to recover from the error, rather than have the program stop? There are two steps to recovering from an error:
 //Clear the error with cin.clear().
+//Remove the incorrect characters from the stream.One way to do this is with cin.ignore().
 
 #include <iostream>
-using namespace std;
+    using namespace std;
 
 int main()
 {

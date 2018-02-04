@@ -1,3 +1,5 @@
+// Example7.cpp : Kartik Varma Boreda
+// Description : decomposition.
 /*
 You have just gotten a position as a salesperson for the ExerShoe company, specializing in high-end exercise shoes costing around $225 per pair. Your boss has given you three options for compensation, which you must choose before you begin your first day:
 
